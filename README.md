@@ -16,8 +16,6 @@ I enjoyed these 7 days, you can as well. To register for next free 7 days bootca
 
 <li><a
 
-href="https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA>YouTu
-
-be</a>
+href="https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA>YouTube</a>
 
 <li><a href="https://github.com/shapeal">GitHub</a>
